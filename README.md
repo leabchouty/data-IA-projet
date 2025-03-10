@@ -50,11 +50,7 @@ Les attributs des données incluent :
    jupyter notebook projet_data_alzheimer.ipynb
    ```
 
-```
-
 ## Auteurs
 Léa BCHOUTY /
 Emma STIEVENARD /
 Chahinez MEZOUAR
-
-```
