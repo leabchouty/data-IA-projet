@@ -26,10 +26,10 @@ Les attributs des données incluent :
 - **Modèles de Machine Learning** : Random Forest, Régression Logistique, XGBoost, etc.
 
 ## Structure du Projet
-|-- alzheimers_disease_data.csv  # Contient les données brutes 
-|-- modified_alzheimers_disease_data.csv  # Contient les données traitées et modifiées
-|-- projet_data_alzheimer.ipynb  # Contient l'analyse exploratoire et les modèles prédictifs ( Random Forest, Régression Logistique, XGBoost, etc.)
-|-- README.md # Documentation du projet 
+- alzheimers_disease_data.csv  # Contient les données brutes
+-  modified_alzheimers_disease_data.csv  # Contient les données traitées et modifiées
+-  projet_data_alzheimer.ipynb  # Contient l'analyse exploratoire et les modèles prédictifs ( Random Forest, Régression Logistique, XGBoost, etc.)
+-  README.md # Documentation du projet 
 
 
 ## Installation
