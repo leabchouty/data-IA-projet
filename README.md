@@ -35,8 +35,8 @@ Les attributs des données incluent :
 ## Installation
 1. Cloner le projet :
    ```bash
-   git clone https://github.com/votre-utilisateur/nom-du-projet.git
-   cd nom-du-projet
+   git clone https://github.com/emmasvd2/data-IA-projet.git
+   cd data-IA-projet
    ```
 Lancer l'analyse exploratoire :
    ```bash
