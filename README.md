@@ -30,3 +30,21 @@ Les attributs des données incluent :
 |-- modified_alzheimers_disease_data.csv  # Contient les données traitées et modifiées
 |-- projet_data_alzheimer.ipynb  # Contient l'analyse exploratoire et les modèles prédictifs ( Random Forest, Régression Logistique, XGBoost, etc.)
 |-- README.md # Documentation du projet 
+
+
+## Installation
+1. Cloner le projet :
+   ```bash
+   git clone https://github.com/votre-utilisateur/nom-du-projet.git
+   cd nom-du-projet
+   ```
+Lancer l'analyse exploratoire :
+   ```bash
+jupyter notebook projet_data_alzheimer.ipynb
+```
+
+## Auteurs
+Léa BCHOUTY
+Emma STIEVENARD
+Chahinez MEZOUAR
+
